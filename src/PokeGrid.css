@@ -1,0 +1,17 @@
+div {
+    display: grid;
+    grid-template-columns: 50px 50px;
+    background-color: red;
+    width: 400px;
+    height: 600px;
+    overflow: auto;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+img{
+    width: 100px;
+    height: 80px;
+    
+}
